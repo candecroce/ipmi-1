@@ -1,3 +1,7 @@
+// valentina del valle Quintana
+// camision 2 
+// legajo 126977/7
+
 PImage img;
 
 void setup(){
